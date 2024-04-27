@@ -12,7 +12,7 @@ Mediante un formulario Google Forms recopilaremos información a estudiantes, se
 
 Mediante el uso de Google Collaboratory se analizarán los datos obtenidos de preguntas abiertas mediante Tablas, diagramas de barra, diagramas de torta y otros
 
-![image](https://github.com/SantiagocasasC2798/CMR---SOLUCION-DE-SOLICITUDES-DE-UNA-SECRETARIA-ACADEMICA/assets/166188733/b9236429-de1c-4091-bc3f-199c51289655)
+![image]([https://github.com/SantiagocasasC2798/CMR---SOLUCION-DE-SOLICITUDES-DE-UNA-SECRETARIA-ACADEMICA/assets/166188733/b9236429-de1c-4091-bc3f-199c51289655](https://colab.research.google.com/drive/1nlV2oMVNH2UsHAkrJkv_cOV3adZ3_sQr))
 
 
 
