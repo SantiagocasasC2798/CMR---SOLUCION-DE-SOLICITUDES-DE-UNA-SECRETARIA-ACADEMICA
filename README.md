@@ -16,6 +16,6 @@ Mediante el uso de Google Collaboratory se analizarán los datos obtenidos de pr
 
 ![image](https://github.com/SantiagocasasC2798/CMR---SOLUCION-DE-SOLICITUDES-DE-UNA-SECRETARIA-ACADEMICA/assets/166188733/b9236429-de1c-4091-bc3f-199c51289655)
 
-[Collaboratory]([https://colab.research.google.com/drive/1oHRe5s3Td6zHk8ZhfxcvpsYuwy8OauOs?usp=sharing](https://colab.research.google.com/drive/1nlV2oMVNH2UsHAkrJkv_cOV3adZ3_sQr))
+[[https://colab.research.google.com/drive/1oHRe5s3Td6zHk8ZhfxcvpsYuwy8OauOs?usp=sharing](https://colab.research.google.com/drive/1nlV2oMVNH2UsHAkrJkv_cOV3adZ3_sQr)]
 
 ![image](https://github.com/SantiagocasasC2798/CMR---SOLUCION-DE-SOLICITUDES-DE-UNA-SECRETARIA-ACADEMICA/assets/166188733/eb440bb0-7d60-4edc-b261-a835eb27fe06)
